@@ -12,6 +12,6 @@ public class Animal {
     }
 
     public String toString() {
-        return " это " + animal   ;
+        return " это " + animal;
     }
 }

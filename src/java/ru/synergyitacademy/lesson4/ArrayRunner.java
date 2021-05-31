@@ -7,7 +7,7 @@ public class ArrayRunner {
 
     public static void main(String[] args) {
 //        int[] array = new int[100];
-        int[] array = new int[] {1, 2, 3};
+        int[] array = new int[]{1, 2, 3};
         BigInteger[] arrayInts = new BigInteger[100];
         for (int i = 0; i < arrayInts.length; i++) {
             arrayInts[i] = BigInteger.ONE;

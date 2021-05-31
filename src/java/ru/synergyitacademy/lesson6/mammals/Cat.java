@@ -1,7 +1,7 @@
 package ru.synergyitacademy.lesson6.mammals;
 
 public class Cat extends Mammals {
-    private String voice ="Мяукать";
+    private String voice = "Мяукать";
 
     public Cat(String animal) {
         super(animal);
