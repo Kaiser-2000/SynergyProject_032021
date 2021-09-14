@@ -1,4 +1,6 @@
-package ru.synergyitacademy.lesson8.corverters;
+package ru.synergyitacademy.lesson8.converters.impl;
+
+import ru.synergyitacademy.lesson8.converters.Converter;
 
 public class KelvinToFahrenheit implements Converter {
     @Override

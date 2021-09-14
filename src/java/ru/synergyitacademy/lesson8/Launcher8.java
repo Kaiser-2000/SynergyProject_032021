@@ -1,10 +1,11 @@
 package ru.synergyitacademy.lesson8;
 
-import ru.synergyitacademy.lesson8.corverters.*;
+import ru.synergyitacademy.lesson8.converters.*;
+import ru.synergyitacademy.lesson8.converters.impl.*;
 
 import java.util.Scanner;
 
-public class Laucher8 {
+public class Launcher8 {
     public static void main(String[] args) {
 
         double result;
